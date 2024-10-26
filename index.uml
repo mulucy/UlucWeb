@@ -1,0 +1,7 @@
+<!DOCTYPE uml>
+<head>
+    <title>Merhaba Dünya!</title>
+</head>
+<body>
+    <text color="red">Hello World</text>
+</body>
